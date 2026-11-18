@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "campus-helpdesk": {
+      "command": "python3",
+      "args": [
+        "${PLUGIN_ROOT}/mcp-server/server.py"
+      ]
+    }
+  }
+}
